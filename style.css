@@ -53,6 +53,7 @@ h1, section > h2 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
+  background-color: #dcbe94;
 }
 
 .texto-negro {
@@ -266,7 +267,7 @@ h1, section > h2 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: #5f6179;
+  background-color: #b1b7d6;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -325,6 +326,7 @@ footer {
   padding: 20px;
   margin-bottom: 30px;
   font-family: 'Quicksand', sans-serif;
+  background-color: #dc8f90;
 }
 
 .iconos-redes-sociales a {
